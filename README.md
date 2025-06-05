@@ -1,6 +1,6 @@
 # Branch test
 
-branch d
+branch END
 from c
 from main
 branch B
