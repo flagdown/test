@@ -1,3 +1,3 @@
 # Branch test
 
-branch A
+branch B
