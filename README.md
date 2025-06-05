@@ -1,4 +1,5 @@
 # Branch test
 
-branch c
+branch d
+from c
 from main
